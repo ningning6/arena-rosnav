@@ -38,5 +38,5 @@
     
 - git:
     local-name: ../forks/arena-tools
-    uri: https://github.com/ignc-research/arena-tools
+    uri: https://github.com/basselfa/arena-tools
     version: main
